@@ -24,6 +24,13 @@ Actualmente estoy practicando y mejorando mis habilidades en **JavaScript**, **J
 
 ---
 
+### 🎯 Mis próximos objetivos
+- Mejorar mi lógica de programación.  
+- Crear un proyecto colaborativo con otros desarrolladores.  
+- Publicar mi primer API con Node.js.  
+
+---
+
 ### 📫 Cómo contactarme  
 - 📧 **Correo:** smora9480@gmail.com  
 - 🌐 **Sitio personal:** [Santio13-code.github.io](https://Santio13-code.github.io)  
@@ -44,6 +51,13 @@ Actualmente estoy practicando y mejorando mis habilidades en **JavaScript**, **J
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+---
+
+### 🧩 Proyectos Destacados
+- [Portfolio Personal](https://Santio13-code.github.io) – Sitio web estático con HTML, CSS y JS.
+- [Blazor](https://github.com/Santio13-code/deber-agiles)
+- [Juego] (https://github.com/Santio13-code/TowerDefense)
 
 
 ---
