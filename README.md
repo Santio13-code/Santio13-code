@@ -3,7 +3,7 @@
 # Tengo 20 años 
 
 Soy un **desarrollador novato** con pasión por el aprendizaje constante y la creación de proyectos funcionales.  
-Actualmente estoy practicando y mejorando mis habilidades en **JavaScript**, **Java**, **HTML** y **CSS**.  
+Actualmente estoy practicando y mejorando mis habilidades en **JavaScript**, **Java**, **HTML**, **C#** y **CSS**.  
 
 ---
 
@@ -17,7 +17,7 @@ Actualmente estoy practicando y mejorando mis habilidades en **JavaScript**, **J
 
 ### 🛠️ Tecnologías y herramientas  
 💻 **Lenguajes:**  
-`JavaScript` • `Java` • `HTML` • `CSS` • `python`
+`JavaScript` • `Java` • `HTML` • `CSS` • `python` • `C#`
 
 🧰 **Herramientas:**  
 `Git` • `GitHub` • `VS Code` • `Node.js`  
@@ -39,6 +39,12 @@ Actualmente estoy practicando y mejorando mis habilidades en **JavaScript**, **J
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santio13-code&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santio13-code&layout=compact&theme=tokyonight)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
 
 ---
 
