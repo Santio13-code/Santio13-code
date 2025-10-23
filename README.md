@@ -48,7 +48,7 @@ Mi enfoque se centra en comprender la estructura del software, mejorar mis habil
 
 ### 📫 Cómo contactarme  
 - 📧 **Correo:** smora9480@gmail.com  
-- 🌐 **Sitio personal:** [Santio13-code.github.io](https://santio13-code.github.io/)  
+- 🌐 **Sitio personal:** [Santio13-code.github.io](https://Santio13-code.github.io/)  
 
 ---
 
