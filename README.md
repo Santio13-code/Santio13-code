@@ -57,7 +57,7 @@ Actualmente estoy practicando y mejorando mis habilidades en **JavaScript**, **J
 ### 🧩 Proyectos Destacados
 - [Portfolio Personal](https://Santio13-code.github.io) – Sitio web estático con HTML, CSS y JS.
 - [Blazor](https://github.com/Santio13-code/deber-agiles)
-- [Juego] (https://github.com/Santio13-code/TowerDefense)
+- [Juego](https://github.com/Santio13-code/TowerDefense)
 
 
 ---
