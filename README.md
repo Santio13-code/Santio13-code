@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Santiago Mora
-# Soy Estudiante de la: Universidad Técnica de Ambato
-# Tengo 20 años 
+# 🎓 Soy Estudiante de la: Universidad Técnica de Ambato
+# 🎂 Tengo 20 años 
 
 Soy un **desarrollador novato** con pasión por el aprendizaje constante y la creación de proyectos funcionales.  
 Actualmente estoy practicando y mejorando mis habilidades en **JavaScript**, **Java**, **HTML**, **C#** y **CSS**.  
