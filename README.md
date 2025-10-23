@@ -72,7 +72,7 @@ Mi enfoque se centra en comprender la estructura del software, mejorar mis habil
 ---
 
 ### 🧩 Proyectos Destacados
-- [Portfolio Personal](https://Santio13-code.github.io) – Sitio web estático con HTML, CSS y JS.
+- [Portfolio Personal](https://Santio13-code.github.io)
 - [Blazor](https://github.com/Santio13-code/deber-agiles)
 - [Juego](https://github.com/Santio13-code/TowerDefense)
 
